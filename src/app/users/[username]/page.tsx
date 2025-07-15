@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Loader2, BadgeCheck, Candy, Citrus, Shield } from "lucide-react";
+import {  BadgeCheck, Candy, Citrus, Shield } from "lucide-react";
 import CardList from "@/components/CardList";
 import { Badge } from "@/components/ui/badge";
 import {

@@ -2,14 +2,11 @@ import {
   Home,
   Inbox,
   Calendar,
-  Search,
   Settings,
   User2,
   ChevronUp,
   Plus,
   Projector,
-  ChevronDown,
-  CarIcon,
   Gift,
   PercentCircle,
   TicketCheck,
@@ -43,11 +40,7 @@ import {
   DropdownMenuTrigger,
 } from "./ui/dropdown-menu";
 
-import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-} from "./ui/collapsible";
+
 
 const items = [
   {

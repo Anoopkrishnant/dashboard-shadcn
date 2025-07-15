@@ -5,7 +5,6 @@ import { Gift, PercentCircle, TicketCheck, WalletCards } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   Card,
-  CardContent,
   CardDescription,
   CardFooter,
   CardHeader,
