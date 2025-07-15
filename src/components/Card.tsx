@@ -1,4 +1,4 @@
-import { TrendingUp, Gift, BadgePercent, PiggyBank } from "lucide-react";
+import { TrendingUp, Gift, BadgePercent } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import {
   Card,
